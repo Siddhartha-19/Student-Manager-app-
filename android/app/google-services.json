@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424729344363",
+    "firebase_url": "https://siddhuclassproject.firebaseio.com",
+    "project_id": "siddhuclassproject",
+    "storage_bucket": "siddhuclassproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424729344363:android:be7142bf0587738485f42e",
+        "android_client_info": {
+          "package_name": "com.SiddhuN.project_sm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424729344363-kv1pa6i32oe1qot8cdah20q4o0um1elq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3NS7GS3mmOdUcegnaNu3j2Z14giYmSGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424729344363-kv1pa6i32oe1qot8cdah20q4o0um1elq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
